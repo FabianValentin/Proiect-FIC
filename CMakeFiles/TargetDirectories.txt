@@ -1,0 +1,1 @@
+/home/cloud/Paul/Proiect-FIC/CMakeFiles/VideoTool.dir
